@@ -15,7 +15,7 @@ used
 * look for insigts in data
 
 # What I want to do
-> When I aquire more skills I will:
+> When I aquire more skills and over time I will:
 
 * create a dash board where you can search each pokemon 
 * Allow users to view pokemon stats at differnt levels to optimize 
