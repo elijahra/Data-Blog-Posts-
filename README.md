@@ -13,6 +13,8 @@ used
 * I learned how to use Seaborn 
 * Pacticed manipulating dataframes in pandas 
 * look for insigts in data
+* How to use widgets in jupyter notebook
+* using bloomberg plotting animation
 
 # What I want to do
 > When I aquire more skills and over time I will:
